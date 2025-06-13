@@ -2,7 +2,7 @@
 
 This repository contains a Power BI dashboard that provides a comprehensive visual overview of store performance based on various KPIs such as sales amount, profit, categories, and state-wise distribution.
 
-![Dashboard Screenshot]("https://github.com/abhiroy00/powerbi2/blob/cbf4304860eeb4e1945bf24139b70a184003c11d/project_image.png")
+![Dashboard Screenshot](https://github.com/abhiroy00/powerbi2/blob/cbf4304860eeb4e1945bf24139b70a184003c11d/project_image.png?raw=true)
 
 ## 📊 Dashboard Features
 
